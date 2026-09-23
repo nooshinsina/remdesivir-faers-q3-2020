@@ -16,6 +16,9 @@ Real-world safety profiling of Remdesivir during COVID-19 using FDA Adverse Even
 8. Death - 86
 9. Blood Creatinine Increased - 81
 10. Renal Impairment - 75
+## Visualizations
+<img width="1080" height="667" alt="Screenshot_20260922-222741_Gallery" src="https://github.com/user-attachments/assets/b36fd0ea-9ce8-4b61-94e5-6094207364e6" />
+<img width="1080" height="960" alt="Screenshot_20260923-153912_Gallery" src="https://github.com/user-attachments/assets/bb6a6976-5f13-4ac6-8f15-b8680f31b95b" />
 
 **Safety Signals:** Hepatotoxicity & Nephrotoxicity
 
