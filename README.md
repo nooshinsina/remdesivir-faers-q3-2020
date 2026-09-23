@@ -18,9 +18,6 @@ Real-world safety profiling of Remdesivir during COVID-19 using FDA Adverse Even
 10. Renal Impairment - 75
 
 **Safety Signals:** Hepatotoxicity & Nephrotoxicity
-### Visualizations
-![Top 10 ADRs](remdesivir_top10.png)
-![SOC](remdesivir_soc.png)
 
 ### Methodology
 - Data Source: FAERS ASCII Q3 2020
